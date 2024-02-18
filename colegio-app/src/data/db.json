@@ -1,0 +1,61 @@
+{
+    "alumnos": [
+      {
+        "nombre": "Antonio Manuel León",
+        "asignatura": "Programación",
+        "edad": 23
+      },
+      {
+        "nombre": "Nicolas Greaud Barbadillo",
+        "asignatura": "Inglés",
+        "edad": 20
+      },
+      {
+        "nombre": "César del Castillo",
+        "asignatura": "Base de Datos",
+        "edad": 21
+      },
+      {
+        "nombre": "Jorge Marimón Moreno",
+        "asignatura": "Despliegue",
+        "edad": 35
+      },
+      {
+        "nombre": "Miguel Caceda Montoya",
+        "asignatura": "Entorno Cliente",
+        "edad": 43
+      },
+      {
+        "nombre": "Manuel Pérez Hidalgo",
+        "asignatura": "Entorno Servidor",
+        "edad": 22
+      }
+    ],
+    "profesores":[
+      {
+        "nombre": "Maria Millan",
+        "especialidad": "Entorno Cliente",
+        "edad": 26
+      },
+      {
+        "nombre": "Josemi",
+        "especialidad": "Programación",
+        "edad": 38
+      },
+      {
+        "nombre": "María Trinidad",
+        "especialidad": "Inglés",
+        "edad": 27
+      },
+      {
+        "nombre": "Jesús Doña",
+        "especialidad": "Base de Datos",
+        "edad": 41
+      },
+      {
+        "nombre": "Ismael Llente",
+        "especialidad": "Programación",
+        "edad": 42
+      }
+    ]
+}
